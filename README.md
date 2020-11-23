@@ -1,3 +1,4 @@
+![Header](https://github.com/dbojado/natural-language-processing-exercises/blob/main/images/NLP_Banner.png)
 ## Natural Language Processing
 
 ### Summary
